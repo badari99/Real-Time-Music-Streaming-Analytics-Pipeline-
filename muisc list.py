@@ -31,13 +31,13 @@ df_joined = df_stream \
 # Snowflake connection options
 
 sfOptions = {
-    "sfURL": "https://zatijti-ls52831.snowflakecomputing.com",
+    "sfURL": "your link",
     "sfDatabase": "MY_FIRST_DB",
     "sfSchema": "MY_SCHEMA",
     "sfWarehouse": "COMPUTE_WH",
     "sfRole": "ACCOUNTADMIN",  # Optional
-    "sfUser": "badari",
-    "sfPassword": "Suvarchala@12345",
+    "sfUser": "name",
+    "sfPassword": "password",
     "dbtable": "MUSIC_EVENTS"
 }
 # Write stream to Snowflake using foreachBatch
