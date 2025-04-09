@@ -142,12 +142,7 @@ df_joined.writeStream     .foreachBatch(write_to_snowflake)     .option("checkpo
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername)  
-[LinkedIn](https://linkedin.com/in/yourprofile)
+BADARI MADDULA
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
